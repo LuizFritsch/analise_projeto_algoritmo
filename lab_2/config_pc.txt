@@ -1,0 +1,2 @@
+processador 3.2 ate 3.6GHz com 8 nucleos e 16 threads
+ram 16gb 3000MHz
